@@ -38,6 +38,14 @@
 `BEATs` `Whisper` `GPT-4o-mini` `FastAPI`
 
 </td>
+<td width="50%">
+
+**🍸 [MoodTender](https://github.com/Seoeon-C/MoodTender)**
+건강 데이터·대화 기억 기반 감정 인식 AI 바텐더
+`LangChain` `RAG` `FastAPI` `Android`
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -46,13 +54,7 @@
 `discord.js` `pokemontcg.io API`
 
 </td>
-<td width="50%">
-
-**🧠 MuseTalk 환경 구축**
-ML 프로젝트 개발 환경 세팅
-`conda` `Python` `ML`
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -62,4 +64,6 @@ ML 프로젝트 개발 환경 세팅
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
 
-<p align="center">📫 Discord/블로그 링크 자리</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-istp__-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
