@@ -1,47 +1,65 @@
-<h1 align="center">Hi 👋, I'm Seoeon</h1>
-<h3 align="center">AI · Backend Developer | 음향/영상 AI · 데이터 시각화 · LLM 통합</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seoeon-C&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Seoeon%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seoeon-C&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%2F+Backend+Developer;%EC%9D%8C%ED%96%A5%C2%B7%EC%98%81%EC%83%81+AI%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%9D%80+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%8B%9C%EA%B0%81%ED%99%94%EC%99%80+LLM+%ED%86%B5%ED%95%A9%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%EC%A4%91" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoeon-C&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
----
+<br>
+
+### 🧩 About Me
+
+- 🔊 **음향/영상 AI** 기반 실시간 분석 시스템 개발
+- 🗺️ **데이터 시각화**로 지역 데이터를 직관적으로 풀어내는 작업
+- 🤖 **LLM 통합** — 판단 엔진, 페르소나 응답 시스템 등에 관심
+- 🎮 사이드 프로젝트로 **Discord 봇** 운영 중
+
+<br>
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,dart,fastapi,react,flutter,nodejs,discordjs" />
+</div>
 
----
+<br>
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🔊 **[SoundGuard](https://github.com/Seoeon-C/SoundGuard)** | 음향 AI 기반 위험 감지·구조 시스템 (BEATs + Whisper + GPT) |
-| 🎮 **Pokémon TCG Discord 봇** | discord.js 기반 카드 뽑기/검색 봇 |
+<table>
+<tr>
+<td width="50%">
 
----
+**🔊 [SoundGuard](https://github.com/Seoeon-C/SoundGuard)**
+음향 AI 위험 감지·구조 시스템
+`BEATs` `Whisper` `GPT-4o-mini` `FastAPI`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seoeon-C&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</td>
+<tr>
+<td width="50%">
 
----
+**🎮 Pokémon TCG Discord 봇**
+카드 뽑기/검색 봇, 한국어 가이드
+`discord.js` `pokemontcg.io API`
+
+</td>
+<td width="50%">
+
+**🧠 MuseTalk 환경 구축**
+ML 프로젝트 개발 환경 세팅
+`conda` `Python` `ML`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
 
 <p align="center">📫 Discord/블로그 링크 자리</p>
