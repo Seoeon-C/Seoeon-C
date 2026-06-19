@@ -13,7 +13,6 @@
 ### 🧩 About Me
 
 - 🔊 **음향/영상 AI** 기반 실시간 분석 시스템 개발
-- 🗺️ **데이터 시각화**로 지역 데이터를 직관적으로 풀어내는 작업
 - 🤖 **LLM 통합** — 판단 엔진, 페르소나 응답 시스템 등에 관심
 - 🎮 사이드 프로젝트로 **Discord 봇** 운영 중
 
@@ -42,7 +41,7 @@
 
 **🍸 [MoodTender](https://github.com/Seoeon-C/MoodTender)**
 건강 데이터·대화 기억 기반 감정 인식 AI 바텐더
-`LangChain` `RAG` `FastAPI` `Android`
+`MuseTalk` `LangChain` `RAG` `FastAPI` `Android`
 
 </td>
 </tr>
