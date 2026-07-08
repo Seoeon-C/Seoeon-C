@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Seoeon%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%2F+Backend+Developer;%EC%9D%8C%ED%96%A5%C2%B7%EC%98%81%EC%83%81+AI%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%9D%80+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EC%8B%9C%EA%B0%81%ED%99%94%EC%99%80+LLM+%ED%86%B5%ED%95%A9%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%EC%A4%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%2F+Backend+Developer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,9 +12,9 @@
 
 ### 🧩 About Me
 
-- 🔊 **음향/영상 AI** 기반 실시간 분석 시스템 개발
+- 🎮 **게임 / AI** 에 관심이 많은 개발자
 - 🤖 **LLM 통합** — 판단 엔진, 페르소나 응답 시스템 등에 관심
-- 🎮 사이드 프로젝트로 **Discord 봇** 운영 중
+- 🕹️ 사이드 프로젝트로 **Discord 봇** 운영 중
 
 <br>
 
@@ -41,7 +41,7 @@
 
 **🍸 [MoodTender](https://github.com/Seoeon-C/MoodTender)**
 건강 데이터·대화 기억 기반 감정 인식 AI 바텐더
-`MuseTalk` `LangChain` `RAG` `FastAPI` `Android`
+`LangChain` `RAG` `FastAPI` `Android`
 
 </td>
 </tr>
@@ -53,7 +53,13 @@
 `discord.js` `pokemontcg.io API`
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+**🃏 Pokémon Roguelike Deckbuilder** *(private)*
+Slay the Spire 기반 포켓몬 IP 로그라이크 게임 개발 중
+`React` `FastAPI` `LLM`
+
+</td>
 </tr>
 </table>
 
