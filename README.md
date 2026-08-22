@@ -32,25 +32,25 @@
 <tr>
 <td width="50%">
 
-**🔊 [SoundGuard](https://github.com/Seoeon-C/SoundGuard)**
-음향 AI 위험 감지·구조 시스템
-`BEATs` `Whisper` `GPT-4o-mini` `FastAPI`
+**📄 [Resuming](https://github.com/Seoeon-C/Resuming)**
+이력서 기반 RAG + MuseTalk 듀오 아바타 AI 모의 면접 플랫폼
+`RAG` `MuseTalk` `Whisper` `FastAPI` `pgvector`
 
 </td>
 <td width="50%">
 
-**🍸 [MoodTender](https://github.com/Seoeon-C/MoodTender)**
-건강 데이터·대화 기억 기반 감정 인식 AI 바텐더
-`LangChain` `RAG` `FastAPI` `Android`
+**🔊 [SoundGuard](https://github.com/Seoeon-C/SoundGuard)**
+음향 AI 위험 감지·구조 시스템
+`BEATs` `Whisper` `GPT-4o-mini` `FastAPI`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🎮 Pokémon TCG Discord 봇**
-카드 뽑기/검색 봇, 한국어 가이드
-`discord.js` `pokemontcg.io API`
+**🍸 [MoodTender](https://github.com/Seoeon-C/MoodTender)**
+건강 데이터·대화 기억 기반 감정 인식 AI 바텐더
+`LangChain` `RAG` `FastAPI` `Android`
 
 </td>
 <td width="50%">
