@@ -13,7 +13,6 @@
 ### 🧩 About Me
 
 - 🎮 **게임 / AI** 에 관심이 많은 개발자
-- 🤖 **LLM 통합** — 판단 엔진, 페르소나 응답 시스템 등에 관심
 - 🕹️ 사이드 프로젝트로 **Pokémon TCG Discord 봇** 운영 중 · [![봇 초대](https://img.shields.io/badge/봇_초대하기-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1507629533287940137)
 
 <br>
