@@ -14,7 +14,7 @@
 
 - 🎮 **게임 / AI** 에 관심이 많은 개발자
 - 🤖 **LLM 통합** — 판단 엔진, 페르소나 응답 시스템 등에 관심
-- 🕹️ 사이드 프로젝트로 **Discord 봇** 운영 중
+- 🕹️ 사이드 프로젝트로 **Pokémon TCG Discord 봇** 운영 중 · [![봇 초대](https://img.shields.io/badge/봇_초대하기-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1507629533287940137)
 
 <br>
 
@@ -62,6 +62,28 @@ Slay the Spire 기반 포켓몬 IP 로그라이크 게임 개발 중
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+### 🕹️ Side Project — Pokémon TCG Discord Bot
+
+출석 → 코인 → 티켓 → 뽑기 → 컬렉션의 게임 루프를 가진 포켓몬 카드 수집 봇.
+`discord.js` `pokemontcg.io API` `Node.js`
+
+<div align="center">
+
+[![봇 초대하기](https://img.shields.io/badge/🤖_봇_초대하기-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1507629533287940137)
+
+</div>
+
+| 기능 | 설명 |
+|---|---|
+| 📅 출석 | 매일 코인 획득, 연속 출석 보너스 |
+| 🎴 뽑기 | 일반 / 팩 / 레어 확정 / 울트라 팩 티켓 |
+| 📦 컬렉션 | Common ~ LEGEND 등급 카드 수집 |
+| 🎲 도박 | 가위바위보, 주사위, 타입 룰렛 |
 
 <br>
 
